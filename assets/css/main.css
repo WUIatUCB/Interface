@@ -2109,10 +2109,11 @@
 			background-color: #83d3c9;
 			/* Teal, map preview image*/
 			background-image: url("images/Orinda.jpg");
-			background-position: top;
+			background-position: right;
 			background-repeat: no-repeat;
 			background-size: 40em;
 			color: #fff;
+			padding: 7em 0;
 		}
 
 			.wrapper.style2 .button:hover {
@@ -2396,7 +2397,8 @@
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/Orinda.jpg");
+		/*test1*/
+		background-image: url("");
 		background-position: left;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -2462,10 +2464,10 @@
 /* Main */
 
 	#main {
-		background-image: url("images/dark-tl.svg"), url("images/dark-tr.svg"), url("images/dark-bl.svg"), url("images/dark-br.svg");
-		background-position: top left, top right, bottom left, bottom right;
+		background-image: url("images/Orinda.jpg");
+		background-position: top;
 		background-repeat: no-repeat;
-		background-size: 25em;
+		background-size: 1em;
 		padding: 7em 0;
 	}
 
