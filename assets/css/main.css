@@ -1783,7 +1783,7 @@
 	}
 
 		.image:before {
-			background: url("");
+			background: url("/images/Orinda.jpg");
 			content: '';
 			height: 100%;
 			left: 0;
